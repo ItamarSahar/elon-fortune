@@ -1,0 +1,22 @@
+// TODO: Finish the Card Design!
+
+.product-preview {
+	width: 250px;
+	height: 300px;
+	border: 1px solid gray;
+
+	.sell {
+		background-color: rgba(252, 64, 64, 0.877);
+
+		&:hover {
+			background-color: rgba(252, 88, 88, 0.733);
+		}
+	}
+	.buy {
+		background-color: rgba(83, 209, 58, 0.637);
+
+		&:hover {
+			background-color: rgba(111, 235, 86, 0.466);
+		}
+	}
+}

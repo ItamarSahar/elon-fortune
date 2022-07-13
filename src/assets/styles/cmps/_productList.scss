@@ -1,0 +1,15 @@
+//TODO: Finish the Total-bar Desing!
+
+.total {
+	position: sticky;
+	top: 0;
+	background-color: rgba(201, 198, 198, 0.671);
+}
+
+.products-list {
+	width: 80%;
+	display: grid;
+	grid-template-columns: repeat(auto-fit, 250px);
+	gap: 14px;
+	margin: auto;
+}
