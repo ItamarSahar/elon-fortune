@@ -2,21 +2,56 @@
 
 .product-preview {
 	width: 250px;
-	height: 300px;
-	border: 1px solid gray;
+	height: 350px;
+	border-radius: 5px;
+	background: linear-gradient(
+		270deg,
+		rgb(113 112 128) 0%,
+		rgb(83, 90, 95) 100%
+	);
+	box-shadow: -1px 4px 8px 4px #a1a1a17a;
 
-	.sell {
-		background-color: rgba(252, 64, 64, 0.877);
-
-		&:hover {
-			background-color: rgba(252, 88, 88, 0.733);
-		}
+	img {
+		top: 0;
+		width: 250px;
+		height: 250px;
+		object-fit: cover;
+		border-top-left-radius: 5px;
+		border-top-right-radius: 5px;
 	}
-	.buy {
-		background-color: rgba(83, 209, 58, 0.637);
 
-		&:hover {
-			background-color: rgba(111, 235, 86, 0.466);
+	h1 {
+		font-size: 0.9rem;
+		padding: 0.3rem;
+	}
+
+	button {
+		cursor: pointer;
+		padding: 0.5rem 1rem;
+		font-family: 'Poppins', sans-serif;
+		border: none;
+		border-radius: 5px;
+	}
+
+	.actions {
+		padding: 0 10px 0 10px;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+
+		.sell {
+			background-color: rgba(252, 64, 64, 0.877);
+
+			&:hover {
+				background-color: rgba(252, 88, 88, 0.733);
+			}
+		}
+		.buy {
+			background-color: rgba(83, 209, 58, 0.637);
+
+			&:hover {
+				background-color: rgba(111, 235, 86, 0.466);
+			}
 		}
 	}
 }

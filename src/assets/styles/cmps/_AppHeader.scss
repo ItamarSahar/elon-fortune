@@ -1,0 +1,22 @@
+.app-header {
+	color: #33373a;
+	img {
+		// object-fit: fill;
+		width: 37%;
+		height: 64vh;
+	}
+
+	h1 {
+		font-size: 2rem;
+		font-weight: 500;
+		margin-block-start: 0.4em;
+		margin-block-end: 0.4em;
+		margin-inline-start: 0px;
+		margin-inline-end: 0px;
+	}
+
+	p {
+		font-size: 1.1rem;
+		margin-bottom: 1rem;
+	}
+}

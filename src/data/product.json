@@ -1,0 +1,44 @@
+[
+	{
+		"_id": "p101",
+		"name": "MacBook Pro 14' M1 Max",
+		"price": 4699,
+		"amount": 0,
+		"img": "https://res.cloudinary.com/dgjmjxkct/image/upload/v1657788857/Elon-Furtune%21/MacBook-4699_vkyptc.jpg"
+	},
+	{
+		"_id": "p102",
+		"name": "Netflix fro 80 years",
+		"price": 135000,
+		"amount": 0,
+		"img": "https://res.cloudinary.com/dgjmjxkct/image/upload/v1657788857/Elon-Furtune%21/Netflix-80-13500_uasbee.jpg"
+	},
+	{
+		"_id": "p103",
+		"name": "Ferrari F8",
+		"price": 276000,
+		"amount": 0,
+		"img": "https://res.cloudinary.com/dgjmjxkct/image/upload/v1657788857/Elon-Furtune%21/FerrariF8-276000_hahbg1.jpg"
+	},
+	{
+		"_id": "p104",
+		"name": "Bugatti La Voiture Noire",
+		"price": 11000000,
+		"amount": 0,
+		"img": "https://res.cloudinary.com/dgjmjxkct/image/upload/v1657788856/Elon-Furtune%21/BugattiLaVoitureNoire-11000000_i85gjn.jpg"
+	},
+	{
+		"_id": "p105",
+		"name": "NBA Team (Average)",
+		"price": 2400000000,
+		"amount": 0,
+		"img": "https://res.cloudinary.com/dgjmjxkct/image/upload/v1657788857/Elon-Furtune%21/NBATeamAVG-2400000000_yxwtqn.jpg"
+	},
+	{
+		"_id": "p106",
+		"name": "LA Mega Mension",
+		"price": 52000000,
+		"amount": 0,
+		"img": "https://res.cloudinary.com/dgjmjxkct/image/upload/v1657788857/Elon-Furtune%21/LAMegaMension-52000000_yxmbvz.jpg"
+	}
+]
